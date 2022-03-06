@@ -39,3 +39,5 @@
 
 ## 问题
 keras 中的BN在训练frozen的网络时候是坏的 http://blog.datumbox.com/the-batch-normalization-layer-of-keras-is-broken/
+<br>   
+这个还可以
